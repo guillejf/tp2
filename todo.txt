@@ -1,0 +1,6 @@
+
+2. mejorar a que pagina de error redirecciona o tener una pagina unica de error que le enviemos un msg custom.
+3. crear un carro ni bien se crea un usuario y asignarlo directamente.
+4. Seria bueno que passport redirija a una ruta para mostrar errores y no a la home. failureRedirect.
+5. Seria mejor redirigir a la ruta de error.
+6. Tener otra pagina de error para este caso.
